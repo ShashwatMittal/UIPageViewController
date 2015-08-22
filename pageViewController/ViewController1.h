@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewController1.h
 //  pageViewController
 //
 //  Created by Shashwat Mittal on 21/8/2015.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ViewController1 : UIViewController
 
 @end
-
